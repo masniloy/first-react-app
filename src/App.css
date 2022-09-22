@@ -1,5 +1,15 @@
 .App {
   text-align: center;
+
+}
+
+.item {
+  text-align: center;
+}
+
+html body {
+  background-color: #282c34;
+  color: wheat;
 }
 
 .App-logo {
@@ -32,6 +42,7 @@
   from {
     transform: rotate(0deg);
   }
+
   to {
     transform: rotate(360deg);
   }
